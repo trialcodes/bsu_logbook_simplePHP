@@ -7,6 +7,6 @@ session_start();
 session_destroy();
 
 // Redirect to login page after logout
-header("location: ./index.php");
+header("location: index.php");
 
 ?>

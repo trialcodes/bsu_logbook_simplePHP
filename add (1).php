@@ -140,6 +140,7 @@ height: 220px;
 			<tr> 
 				<td><input type="email" name="email" placeholder="Email Address" required></td>
 				<td><input type="number" name="mobile" placeholder="Mobile Number" required></td>
+				
 			</tr>
             <tr> 
 				<td><input type="text" name="username" placeholder="Username" required></td>
@@ -241,7 +242,7 @@ font-family:rockwell;
 
 
 </style>
-       <h5 class="foot1">
+        <h5 class="foot1">
 	     BSU ATTENDANCE MONITORY <br>
           Copyright 2022  | All Right Reserved. <br>
           Powered by:  Michael Sarmiento | Yuji Mendoza  | Shaira Nicole Fruto | Kathlene Trabajales | Mariell Erika Go | Lionel Roque
